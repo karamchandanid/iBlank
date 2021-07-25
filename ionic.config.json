@@ -1,0 +1,7 @@
+{
+  "name": "blankapp-vue",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
